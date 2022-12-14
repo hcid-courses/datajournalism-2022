@@ -2737,6 +2737,26 @@ input, select, textarea {
 				background-color: #a5b34d;
 			}
 
+			.tiles article.style8 > .image:before {
+				background-color: #a5b34d;
+			}
+
+			.tiles article.style9 > .image:before {
+				background-color: #a5b34d;
+			}
+
+			.tiles article.style10 > .image:before {
+				background-color: #a5b34d;
+			}
+
+			.tiles article.style11 > .image:before {
+				background-color: #a5b34d;
+			}
+
+			.tiles article.style12 > .image:before {
+				background-color: #e2acac;
+			}
+
 			body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
 				-webkit-transform: scale(1.1);
