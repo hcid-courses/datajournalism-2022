@@ -2835,15 +2835,15 @@ button:disabled,
 }
 
 .tiles article.style2>.image:before {
-	background-color: #7ecaf6;
+	background-color: #698a6e;
 }
 
 .tiles article.style3>.image:before {
-	background-color: #7bd0c1;
+	background-color: #462713;
 }
 
 .tiles article.style4>.image:before {
-	background-color: #8499e7;
+	background-color: #6d6e70;
 }
 
 .tiles article.style5>.image:before {
@@ -2859,7 +2859,7 @@ button:disabled,
 }
 
 .tiles article.style8>.image:before {
-	background-color: #a5b34d;
+	background-color: #9f9164;
 }
 
 .tiles article.style9>.image:before {
@@ -2871,7 +2871,7 @@ button:disabled,
 }
 
 .tiles article.style11>.image:before {
-	background-color: #a5b34d;
+	background-color: #545454;
 }
 
 .tiles article.style12>.image:before {
